@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "!! Aşağıdaki seçeneklerden size uygun olana tıklayarak sisteme giriş yapabilirsiniz"; ObjectID = "YRA-NW-Cbd"; */
+"YRA-NW-Cbd.text" = "!! Aşağıdaki seçeneklerden size uygun olana tıklayarak sisteme giriş yapabilirsiniz";
+
+/* Class = "UIButton"; configuration.title = "Yönetici Girişi >>"; ObjectID = "Yz4-ft-Xgo"; */
+"Yz4-ft-Xgo.configuration.title" = "Yönetici Girişi >>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Yz4-ft-Xgo"; */
+"Yz4-ft-Xgo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Namık Kemal Üniversitesi Staj Uygulamasına Hoşgeldiniz"; ObjectID = "ZAz-AJ-34d"; */
+"ZAz-AJ-34d.text" = "Namık Kemal Üniversitesi Staj Uygulamasına Hoşgeldiniz";
+
+/* Class = "UIButton"; configuration.title = "Öğrenci Girişi >>"; ObjectID = "qBI-G7-asX"; */
+"qBI-G7-asX.configuration.title" = "Öğrenci Girişi >>";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "qBI-G7-asX"; */
+"qBI-G7-asX.normalTitle" = "Button";
